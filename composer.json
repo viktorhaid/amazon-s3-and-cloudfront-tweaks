@@ -1,7 +1,10 @@
 {
     "name": "arvatoaws-labs/wp-plugin-amazon-s3-and-cloudfront-tweaks",
+    "description": "WP Offload S3's filters to support ArvatoAWS wordpress architecture",
+    "homepage": "https://github.com/arvatoaws-labs/wp-plugin-amazon-s3-and-cloudfront-tweaks/",
     "type": "wordpress-plugin",
     "require": {
-        "composer/installers": "^1.0"
+        "composer/installers": "^1.0",
+        "wpackagist-plugin/amazon-s3-and-cloudfront":"*"
     }
 }
