@@ -1,5 +1,5 @@
 {
-    "name": "arvatoaws-labs/wp-plugin-amazon-s3-and-cloudfront-tweaks",
+    "name": "arvatoaws-labs/amazon-s3-and-cloudfront-tweaks",
     "description": "WP Offload S3's filters to support ArvatoAWS wordpress architecture",
     "homepage": "https://github.com/arvatoaws-labs/wp-plugin-amazon-s3-and-cloudfront-tweaks/",
     "type": "wordpress-plugin",
